@@ -1,2 +1,1 @@
-﻿# moderation-bot
 
